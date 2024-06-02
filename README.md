@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Shimmita Douglas](https://github.com/Shimmita) 👋
+### 👋 Hi there, I'm [Shimmita Douglas](https://github.com/Shimmita)
 I'm a dynamic and innovative software developer with a fervent passion for crafting seamless digital experiences. With a rich background in [Android app development](https://developer.android.com/), [Flutter](https://flutter.dev/), and web development, I thrive on transforming complex problems into elegant solutions. My toolkit is brimming with expertise in [React.js](https://react.dev/), [Node.js](https://nodejs.org/) and the [Python Django](https://www.djangoproject.com/). Recently, I've embarked on an exhilarating journey into the realms of [Machine Learning](https://www.coursera.org/learn/machine-learning) and [Deep Learning](https://www.deeplearning.ai/).
 
 #### 🛠 Technologies & Tools
