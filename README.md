@@ -1,4 +1,4 @@
-Hi there, I'm Shimmita Douglas Oundo 👋
+👋 Hi there, I'm Shimmita Douglas Oundo
 
 I'm a passionate and versatile software developer with a robust background in Android app development, Flutter, and Web development. Over the years, I've honed my skills in various technologies, including React.js,Node.js, Python Django,Django Rest Framework and the Python FastAPI. My recent explorations have led me into the exciting realms of Machine Learning and Deep Learning.
 
