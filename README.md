@@ -1,6 +1,6 @@
--  Hi I'm  SHIMMITA DOUGLAS OUNDO
+-  Hi, I'm SHIMITA DOUGLAS OUNDO
   
--  Junior Software and Machine Learning Engineer.
+-  Software and Machine Learning Engineer
     
 
 
