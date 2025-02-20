@@ -1,14 +1,15 @@
 
 ### 👋 Hi there, I'm [Shimmita Douglas](https://github.com/Shimmita)
-I'm a dynamic and innovative IT graduate from Maseno University specialised in software engineering with a fervent passion for crafting seamless digital experiences. I thrive on transforming complex problems into elegant solutions. My toolkit is brimming with expertise in [React.js](https://react.dev/), [Nextjs](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app), [Node.js](https://nodejs.org/), [Android app development](https://developer.android.com/), [Flutter](https://flutter.dev/) and the [Python Django](https://www.djangoproject.com/). Recently, I've embarked on an exhilarating journey into the realms of [Machine Learning](https://www.coursera.org/learn/machine-learning) and [Deep Learning](https://www.deeplearning.ai/).
+I'm a dynamic and innovative IT graduate from Maseno University specialised in software engineering with a fervent passion for crafting seamless digital experiences. I thrive on transforming complex problems into elegant solutions. My toolkit is brimming with expertise in [React.js](https://react.dev/), [Nextjs](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app), [Node.js](https://nodejs.org/), [Android](https://developer.android.com/), [Flutter](https://flutter.dev/) and [Python Django](https://www.djangoproject.com/). 
+Recently, I've embarked on an exhilarating journey into the realms of [Machine Learning](https://www.coursera.org/learn/machine-learning) and its integration into the existing systems to improve productivity.
 
 
 #### 🛠 Technologies & Tools
 - **Mobile Development:** [Android JetpakCompose](https://developer.android.com/),  [Flutter](https://flutter.dev/)
-- **Web Development:** [React.js](https://react.dev),[Node.js](https://nodejs.org/), [Nextjs](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app), [Node.js](https://nodejs.org/), [Python Django](https://www.djangoproject.com/), [Python FastAPI](https://fastapi.tiangolo.com/)
+- **Web Development:** [React.js](https://react.dev), [Node.js](https://nodejs.org/), [Nextjs](https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app), [Node.js](https://nodejs.org/), [Python Django](https://www.djangoproject.com/), [Python FastAPI](https://fastapi.tiangolo.com/)
 - **Machine Learning & Deep Learning:**  [Tensorflow](https://www.tensorflow.org), [Scikit-Learn](https://www.scikit-learn.io), [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
 - **Programming Languages:** [JavaScript](https://www.javascript.org), [Python](https://www.python.org), [Typescript](https://www.typescript.org), [Kotlin](https://www.kotlin.org)
-- **Database Technologies:** [MongoDB], [Firebase], [MySQL], [PostgreSQL],[SQlite],
+- **Database Technologies:** [MongoDB], [Reddis], [Firebase], [MySQL], [PostgreSQL], [SQlite],
 - **Cloud Providers:** [Renders], [Vercel], [Cloudinary], [GCP], [AWS],
 - **Containerisation:** [Docker]
 - **CI/CD:** [GitHub Actions]
